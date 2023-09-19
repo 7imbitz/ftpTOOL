@@ -23,6 +23,8 @@ ftpTOOL requires **go1.18** to install successfully. Run the following command t
 ```bash
 go install -v github.com/7imbitz/ftpTOOL/ftpTOOL@latest
 ```
+- TODO
+_seems error_
 
 ### Workaround Installation
 
