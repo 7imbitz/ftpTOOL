@@ -46,6 +46,7 @@ mv ftpTOOL $GOPATH/bin
     - Bison FTP Traverse
     - Colorado FTP Traverse
     - Titan FTP xcrc Traverse
+- Tested on Kali Linux with go version go1.19.3 linux/amd64
     
  # Notes
 
